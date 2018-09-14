@@ -1,17 +1,19 @@
-﻿using System;
+using System;
+using System.IO;
 
 namespace Csharpdoc
 {
     class Program
     {
         static void Main(string[] args)
-        {
-            string pathString2 = @"c:\users\admin\documents\GitHub\CSharpDocument";
+        {            
+             string thepath = String.Format("{0}{1}{2}","C:\users\admin\documents\GitHub\CSharpDocument",idTextBox.text,".txt");
 
-
-            // Keep the console window open in debug mode.
-            System.Console.WriteLine("Press any key to exit.");
-            System.Console.ReadKey();
+             using(StreamWriter writer = new StreamWriter(thepath))
+             {
+             writer.WriteLine();
+             }
+             
         }
     }
 }
