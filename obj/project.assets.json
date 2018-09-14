@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\CSharpDocument\\Csharpdoc\\Csharpdoc\\Csharpdoc.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Documents\\GitHub\\CSharpDocument\\Csharpdoc.csproj",
       "projectName": "Csharpdoc",
-      "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\CSharpDocument\\Csharpdoc\\Csharpdoc\\Csharpdoc.csproj",
+      "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\CSharpDocument\\Csharpdoc.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\CSharpDocument\\Csharpdoc\\Csharpdoc\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Documents\\GitHub\\CSharpDocument\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
